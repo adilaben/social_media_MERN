@@ -10,13 +10,12 @@
 
 ![screencaptureT-localhost-3000-home-2023-01-27-03_28_10](https://user-images.githubusercontent.com/82048235/215124353-fb970226-3f62-4d88-89a7-2c895465c112.png)
 
-## Key Features 🍿
+## Key Features ⭐
 
 - User authentication and registration
 - Create, view and interact with posts
 - Add users as friends
 - View profile of other users
-- Search functionality
 - Dark/Light mode.
 - Mobile responsive.
 
