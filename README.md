@@ -1,10 +1,6 @@
-# Sociophilia
+<h1 align="center">Sociophilia</h1>
 
-<h1 align="center">
-  <p>Sociophilia is a full-stack social media web application built using the MERN stack. The application allows users to create an account, login, and create, view, and interact with posts.</p>
-</h1>
-
-<h2 align="center">Sociophilia - A social media app that connects users from all over the world.</h2>
+<h2 align="center"> A social media app that connects users from all over the world.</h2>
 
 <h3 align="center">🌙 Dark Mode 🌙 </h3>
 
