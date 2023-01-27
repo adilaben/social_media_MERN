@@ -1,10 +1,6 @@
-# Sociophilia
+<h1 align="center">Sociophilia</h1>
 
-<h1 align="center">
-  <p>Sociophilia is a full-stack social media web application built using the MERN stack. The application allows users to create an account, login, and create, view, and interact with posts.</p>
-</h1>
-
-<h2 align="center">Sociophilia - A social media app that connects users from all over the world.</h2>
+<h2 align="center"> A social media app that connects users from all over the world.</h2>
 
 <h3 align="center">🌙 Dark Mode 🌙 </h3>
 
@@ -14,13 +10,12 @@
 
 ![screencaptureT-localhost-3000-home-2023-01-27-03_28_10](https://user-images.githubusercontent.com/82048235/215124353-fb970226-3f62-4d88-89a7-2c895465c112.png)
 
-## Key Features 🍿
+## Key Features ⭐
 
 - User authentication and registration
 - Create, view and interact with posts
 - Add users as friends
 - View profile of other users
-- Search functionality
 - Dark/Light mode.
 - Mobile responsive.
 
